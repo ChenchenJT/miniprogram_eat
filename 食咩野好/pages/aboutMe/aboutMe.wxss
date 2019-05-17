@@ -1,0 +1,11 @@
+/* pages/aboutMe/aboutMe.wxss */
+
+.btn {
+  width: 100%;
+  position: fixed;
+  bottom: 20px;
+}
+
+.btn button {
+  width: 80%;
+}
